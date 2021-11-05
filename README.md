@@ -1,2 +1,2 @@
 # hello_world
-My first repository
+My first repository created in 2nd year of SSOŠ 1.KŠPA.
